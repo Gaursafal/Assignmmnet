@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.task{
+    border: 1px solid whitesmoke;
+    width: 150px;
+    height: 80px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding-left: 30px;
+}
+
+.footer{
+    border: 1px solid whitesmoke;
+    height: 170px;
+    width: 300px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+    margin-left: 10px;
+}

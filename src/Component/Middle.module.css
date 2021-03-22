@@ -1,0 +1,45 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.middle{
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+.profile{
+    border: 1px solid whitesmoke;
+    width: 630px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+.profile1{
+    border: 1px solid whitesmoke;
+    width: 550px;
+    height: 60px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+.courses{
+    border: 1px solid whitesmoke;
+    width: 640px;
+    height: 60px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    margin-top: 15px;
+}
+
+.viewCourse{
+    border: 2px solid black;
+    padding: 8px;
+    border-radius: 10px;
+}
